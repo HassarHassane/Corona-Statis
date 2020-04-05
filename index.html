@@ -45,11 +45,16 @@
         // Initialize Firebase
         firebase.initializeApp(firebaseConfig);
         function storeData() {
-            // Récupérer les donnes depuis l'api
-            $.get("https://pomber.github.io/covid19/timeseries.json", function (data) {
+            let duree = 24 * 3600 * 1000;
+			//storeData automatiquement à la fin de la journée courante.c-a-d,chaque 24h.
+            setInterval(function() {
+            	// Récupérer les donnes depuis l'api
+            	$.get("https://pomber.github.io/covid19/timeseries.json", function (data) {
                 // Enregister les donnes sur firebase
                 firebase.database().ref("Pays").push(data);
-            });
+            	});
+            },duree)
+            
         }
     </script>
     <!-- Page Wrapper -->
