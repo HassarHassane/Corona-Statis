@@ -23,8 +23,8 @@ You find here the following URLs where my project is successfully deployed:
 I made the consumption of the API that is available on URL: https://pomber.github.io/covid19/timeseries.json
 
 ## Tech / framework used
-HTML, CSS, Bootstrap, JavaScript, Jquery, DataTables, ChartJs
-Firebase realtime database cloud for data storage.
+HTML, CSS, Bootstrap, JavaScript, Jquery, DataTables, ChartJs,
+firebase realtime database cloud for data storage.
 
 ## Prediction model
 I strongly recommend that you first consult my personal work in the Pre-Prediction file, then go to COVID19-Prediction.
