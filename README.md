@@ -1,11 +1,11 @@
 ## Project title
-I chose as title of my project 'COVID 19 Statistics' project which obviously reflects the major objective of the project.
+I chose as title of my project 'COVID 19 Statistics' which obviously reflects the major objective of the project.
 
 ## Motivation
 <p>The coronavirus (COVID-19) has recently caused major global concern.
 As the number of coronavirus cases increases, the spread of COVID-19 is a serious threat to global health.
-The sources of information given are not reliable and consistent and they change as governments change policies.
-However, Given the situation described above, in this project we offer a simple and intuitive web application 
+However,the sources of information given are not reliable and consistent and they change as governments change policies.
+Given the situation described above, in this project we offer a simple and intuitive web application 
 for viewing data relating to Coronavirus COVID-19.
 </p>
 
