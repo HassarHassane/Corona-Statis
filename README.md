@@ -6,7 +6,7 @@ I chose as title of my project 'COVID 19 Statistics' which obviously reflects th
 As the number of coronavirus cases increases, the spread of COVID-19 is a serious threat to global health.
 However,the sources of information given are not reliable and consistent and they change as governments change policies.
 Given the situation described above, in this project we offer a simple and intuitive web application 
-for viewing data relating to Coronavirus COVID-19.
+for viewing data relating to COVID-19.
 </p>
 
 ## Deployment
